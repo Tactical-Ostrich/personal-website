@@ -1,0 +1,191 @@
+body {
+background-color:rgb(2, 60, 152);
+font-family: Arial, Helvetica, sans-serif;
+}
+
+div#mainthing{
+    width: 80%;
+    min-height: 150px;
+    margin:auto;
+    background-color: white;
+}
+
+main{
+    width: 100%;
+    min-height: 700px;
+    background-color: white;
+}
+
+img.frontpic {
+    width: 500px;
+    border-radius: 10px;
+    margin: 20px;
+    float: left;
+}
+
+header{
+    background-color: rgb(87, 103, 148);
+    padding: 2rem;
+}
+
+p.caption {
+  text-align: left;
+}
+
+
+h1{
+    color:white;
+    font-weight: bold;
+    padding: 1rem;
+    font-size: 3rem;
+}
+
+h2{
+    font-weight: bold;
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+h3{
+    font-weight: bold;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+
+a.toplink{
+    color: white;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+a.projlink{
+    padding: 1rem;
+}
+
+p.projdisc{
+    padding-bottom: 2rem;
+    padding-left: 1rem;
+}
+
+p.ringsp1{
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+p.vanpar{
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+
+p.fieldpar{
+padding: 1rem;
+font-size: 1.2rem;
+}
+
+img.ringpic1{
+width: 600px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+img.bull1{
+width: 600px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+float: left;
+}
+img.bull2{
+width: 600px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+float: right;
+}
+
+img.bad1{
+width: 600px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+float: left;
+}
+img.bad2{
+width: 600px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+float: right;    
+}
+
+img.moonpic{
+width: 600px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+img.rings1{
+width: 600px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+img.vnaderpic{
+width: 700px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+video.sparkyvid{
+width: 320px ; 
+height: 240px ;
+}
+
+img.slide{
+width: 600px;
+height: 800px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+img.cold1{
+width: 400px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+float: left;
+}
+
+img.cold2{
+width: 800px;
+border-radius: 10px;
+margin: 20px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+float: right;
+}
